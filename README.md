@@ -152,8 +152,9 @@ In a globally competitive sports environment, data-driven roster and financial t
 ---
  
 ## 🖥️ Dashboard Overview
-![image alt]()
+![image alt](https://github.com/Cnik1710/Kevaro-Athletics-Roster-Systemization-Fiscal-Analysis/blob/7e4ff7ab52e62e85f1c8ee37041e802d6840ff11/04.%20Kevaro%20Athletics%20-%20Roster%20Systemization%20%26%20Fiscal%20Analysis%20(1)%20Dashboard.png)
 
+![image alt]()
 ---
 
 ## ✅ Business Impact & Use Cases   
