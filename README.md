@@ -1,4 +1,4 @@
-# Kevaro Athletics - Membership Systemization Analysis
+# Kevaro Athletics - Roster Systemization & Fiscal Analysis
 ## 🎯 Objective
 To analyze the gender-wise representation and salary distribution across different sports and countries for Kevaro Athletics’ global selection pool. The goal is to identify patterns in participation diversity, pay disparity, and high-salary sports to support equitable athlete management and strategic talent investments.
 ### **Project Purpose:**
